@@ -1,0 +1,15 @@
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+venv/
+env/
+output/
+input/url_list.txt
+*.log
+.DS_Store
+README.md
+tests/

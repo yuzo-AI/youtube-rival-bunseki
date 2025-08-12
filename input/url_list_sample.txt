@@ -1,0 +1,14 @@
+# YouTubeチャンネルURLを1行に1つずつ記載してください
+# コメント行は#で始まります
+# 
+# 対応形式：
+# - チャンネルURL: https://www.youtube.com/@channelname
+# - チャンネルURL: https://www.youtube.com/channel/UCxxxxxx
+# - 動画URL: https://www.youtube.com/watch?v=xxxxxxx
+# - 短縮URL: https://youtu.be/xxxxxxx
+#
+# 動画URLを入力した場合、その動画が属するチャンネルの全ショート動画を取得します
+
+# サンプル
+https://www.youtube.com/@MrBeast
+https://www.youtube.com/@BayashiTV_shorts
